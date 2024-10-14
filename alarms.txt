@@ -3,11 +3,7 @@
 "day":"Daily",
 "sound":"goodmorning.wav"
 },{"name":"fajr1",
-"time":"5:57",
-"day":"Daily",
-"sound":"goodmorning.wav"
-},{"name":"fajr2",
-"time":"6:00",
+"time":"6:10",
 "day":"Daily",
 "sound":"goodmorning.wav"
 },{
@@ -17,7 +13,7 @@
 "sound":"goodmorning.wav"
 },{
 "name":"test1",
-"time":"16:44",
+"time":"20:21",
 "day":"Sunday",
 "sound":"goodmorning.wav"
 }]
